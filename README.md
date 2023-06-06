@@ -1,2 +1,2 @@
 # html-odev1
-html odev 1
+Yapılan ilk web sayfası
